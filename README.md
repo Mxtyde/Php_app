@@ -1,4 +1,3 @@
-##set the .env:
 # .env file
 database.default.hostname = localhost
 database.default.database = database name
